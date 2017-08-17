@@ -1,0 +1,30 @@
+{
+  "name": "escapify",
+  "version": "1.0.0",
+  "description": "Escape html strings",
+  "license": "MIT",
+  "repository": "tobihrbr/escapify",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihrbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "ava",
+    "lint": "fyi"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "fyi": "^1.0.1"
+  }
+}
