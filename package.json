@@ -1,6 +1,6 @@
 {
   "name": "escapify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Escape html strings",
   "license": "MIT",
   "repository": "tobihrbr/escapify",
@@ -20,7 +20,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "escape",
+    "html",
+    "string",
+    "unescape",
+    "serialize"
   ],
   "dependencies": {},
   "devDependencies": {
