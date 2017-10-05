@@ -1,4 +1,4 @@
-# escapify [![Build Status](https://travis-ci.org/tobihrbr/escapify.svg?branch=master)](https://travis-ci.org/tobihrbr/escapify) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
+# escapify [![Build Status](https://travis-ci.org/herber/escapify.svg?branch=master)](https://travis-ci.org/herber/escapify) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
 
 
 > Escape html strings
